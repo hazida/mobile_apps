@@ -10,7 +10,7 @@
 |  No | Name                                           | ID             |                     Github                     |
 | --: | ---------------------------------------------- | -------------- | :--------------------------------------------: |
 |   1 | AHMAD MUZAKKIR BIN MUHAMAD                     | ahmdmuz        |        [:octocat:](https://github.com/)        |
-|   2 | AIMAN FITRI BIN YUSRI                          |                |        [:octocat:](https://github.com/)        |
+|   2 | AIMAN FITRI BIN YUSRI                          | AimanFitri00   |        [:octocat:](https://github.com/)        |
 |   3 | AIMIE NATASYA BINTI AYUB                       |                |        [:octocat:](https://github.com/)        |
 |   4 | AMIN ZUL HUSNI BIN MOHAMAD BAHARUDIN           |                |        [:octocat:](https://github.com/)        |
 |   5 | AMMAR IBRAHIM BIN MOHAMED                      | ammaribrahim95 | [:octocat:](https://github.com/ammaribrahim95) |
