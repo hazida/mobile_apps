@@ -19,7 +19,7 @@
 |   8 | ELAWARASI A/P NADARAJAN                        |                |        [:octocat:](https://github.com/)        |
 |   9 | HARRAZ HAZIQ BIN AZLIM                         |                |        [:octocat:](https://github.com/)        |
 |  10 | ISMAIL BIN AMAN                                | oldpistol      | [:octocat:](https://github.com/oldpistol)      |
-|  11 | JANAVI RADHA A/P BALA                          |                |        [:octocat:](https://github.com/)        |
+|  11 | JANAVI RADHA A/P BALA                          |                |        [:octocat:](https://github.com/Jaanuu0306)        |
 |  12 | JUDE YOOGEN A/L GUNARATNAM                     |   JYoogen0706  |        [:octocat:](https://github.com/JYoogen0706)|
 |  13 | KARAN RAJ A/L ANBARASAN                        |                |        [:octocat:](https://github.com/)        |
 |  14 | MALATHI A/P MOHANASUNDRAM                      |malathimohanasundram                |        [:octocat:](https://github.com/)        |
