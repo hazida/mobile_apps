@@ -16,7 +16,7 @@
 |   5 | AMMAR IBRAHIM BIN MOHAMED                      | ammaribrahim95 | [:octocat:](https://github.com/ammaribrahim95) |
 |   6 | ASHA A/P SHANMUGAM                             |                |        [:octocat:](https://github.com/)        |
 |   7 | EFFA AIZA BINTI SULAIMAN                       |                |        [:octocat:](https://github.com/)        |
-|   8 | ELAWARASI A/P NADARAJAN                        |                |        [:octocat:](https://github.com/Elawarasi99)        |
+|   8 | ELAWARASI A/P NADARAJAN                        | Elawarasi99    |        [:octocat:](https://github.com/Elawarasi99)        |
 |   9 | HARRAZ HAZIQ BIN AZLIM                         |                |        [:octocat:](https://github.com/)        |
 |  10 | ISMAIL BIN AMAN                                | oldpistol      | [:octocat:](https://github.com/oldpistol)      |
 |  11 | JANAVI RADHA A/P BALA                          |                |        [:octocat:](https://github.com/Jaanuu0306)        |
