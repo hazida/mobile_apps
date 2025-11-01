@@ -32,7 +32,7 @@
 |  19 | MOHAMMED SATIPPIDDIN SAFID BIN HAMZAH          | sandman-torn   |  [:octocat:](https://github.com/sandman-torn)  |
 |  20 | MUHAMMAD ASYRAF BIN RAMLEE                     | MuhdAsyraf-git |        [:octocat:](https://github.com/)        |
 |  21 | MUHAMMAD BADRUL AMIN BIN MASROL                |    badz20      |        [:octocat:](https://github.com/)        |
-|  22 | MUHAMMAD FAIZ FITRI BIN MOHD NOH               |                |        [:octocat:](https://github.com/)        |
+|  22 | MUHAMMAD FAIZ FITRI BIN MOHD NOH               | AshuraRin      |        [:octocat:](https://github.com/)        |
 |  23 | MUHAMMAD FAIZAL BIN ASARAB ALI                 |                |        [:octocat:](https://github.com/)        |
 |  24 | MUHAMMAD HAFIZUDDIN SHAH BIN ABDUL RAHMAN SHAH | hfzdnshah      |        [:octocat:](https://github.com/hfzdnshah)        |
 |  25 | MUHAMMAD HAZIM BIN ADNAN                       |                |        [:octocat:](https://github.com/)        |
