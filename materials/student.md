@@ -34,7 +34,7 @@
 |  21 | MUHAMMAD BADRUL AMIN BIN MASROL                |    badz20      |        [:octocat:](https://github.com/)        |
 |  22 | MUHAMMAD FAIZ FITRI BIN MOHD NOH               |                |        [:octocat:](https://github.com/)        |
 |  23 | MUHAMMAD FAIZAL BIN ASARAB ALI                 |                |        [:octocat:](https://github.com/)        |
-|  24 | MUHAMMAD HAFIZUDDIN SHAH BIN ABDUL RAHMAN SHAH |                |        [:octocat:](https://github.com/)        |
+|  24 | MUHAMMAD HAFIZUDDIN SHAH BIN ABDUL RAHMAN SHAH | hfzdnshah      |        [:octocat:](https://github.com/hfzdnshah)        |
 |  25 | MUHAMMAD HAZIM BIN ADNAN                       |                |        [:octocat:](https://github.com/)        |
 |  26 | MUHAMMAD HIZWAN BIN ZAMERI                     | hizwanzameri   |        [:octocat:](https://github.com/hizwanzameri)        |
 |  27 | MUHAMMAD SYAZWAN BIN NAZRI                     | syazwan-nazri  | [:octocat:](https://github.com/syazwan-nazri)  |
