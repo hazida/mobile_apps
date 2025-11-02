@@ -39,7 +39,7 @@
 |  26 | MUHAMMAD HIZWAN BIN ZAMERI                     | hizwanzameri   |        [:octocat:](https://github.com/hizwanzameri)        |
 |  27 | MUHAMMAD SYAZWAN BIN NAZRI                     | syazwan-nazri  | [:octocat:](https://github.com/syazwan-nazri)  |
 |  28 | NABILAH BINTI ABD RAHMAN                       |                |        [:octocat:](https://github.com/)        |
-|  29 | NOOR AMERA SHAFINAZ BINTI MUHAMMAD AZMI        |                |        [:octocat:](https://github.com/)        |
+|  29 | NOOR AMERA SHAFINAZ BINTI MUHAMMAD AZMI        | CikNoorSyafi   |        [:octocat:](https://github.com/CikNoorSyafi)        |
 |  30 | NOR HAZIDA BINTI HAMDAN                        | hazida         |        [:octocat:](https://github.com/)        |
 |  31 | NUR FATHIN MARSHITAH BINTI MOHAMAD             |fathinmarshitah |        [:octocat:](https://github.com/)        |
 |  32 | NURUL AIDATUL AISYQIN                          |                |        [:octocat:](https://github.com/)        |
