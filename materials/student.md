@@ -43,7 +43,7 @@
 |  30 | NOR HAZIDA BINTI HAMDAN                        | hazida         |        [:octocat:](https://github.com/)        |
 |  31 | NUR FATHIN MARSHITAH BINTI MOHAMAD             |fathinmarshitah |        [:octocat:](https://github.com/)        |
 |  32 | NURUL AIDATUL AISYQIN                          |                |        [:octocat:](https://github.com/)        |
-|  33 | RUPATARANI A/P PARAMASIVAM                     |                |        [:octocat:](https://github.com/)        |
+|  33 | RUPATARANI A/P PARAMASIVAM                     | Rupatarani     |        [:octocat:](https://github.com/)        |
 |  34 | SANTHYA A/P MUNIAPPAN                          |   SanthyaM             |        [:octocat:](https://github.com/)        |
 |  35 | TEEVANRAJ A/L RAJENDRAN                        |       sivateevanraj3-r18s         |        [:octocat:](https://github.com/)        |
 |  36 | THARSHINI A/P RAJAN                            |                |        [:octocat:](https://github.com/)        |
