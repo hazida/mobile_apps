@@ -5,58 +5,79 @@
 <a href="https://github.com/drshahizan/mobile_apps/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/mobile_apps?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fmobile_apps&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# **Step-by-Step Guide to Running the UTMSport Mobile Application**
+# **UTM Mobile Sports Hall Booking App**
+
+**Step-by-Step Guide to Running the Application**
 
 ## **1. Firestore – Firebase Console**
 
 1. Navigate to the Firebase Console at:
    **[https://console.firebase.google.com/](https://console.firebase.google.com/)**
-   This is the official portal used to manage Firebase services, including Firestore databases.
+   This platform is used to manage Firebase services, including Firestore.
 
-2. Locate the project named **dartmaster** and confirm you can access it.
-   This step ensures you are working under the correct Firebase project and that your account has permission to view the project resources.
+2. Locate the project named **dartmaster** and verify that you have access to it.
+   This confirms that you are working within the correct Firebase project.
 
 3. Open **Firestore Database** and review the database named **booking**.
-   This is where the UTMSport application stores and retrieves its data during runtime.
+   This database is used by the UTM Mobile Sports Hall Booking App for data storage and retrieval.
 
-4. Confirm that the **booking** database contains the following three collections:
+4. Verify that the **booking** database contains the following collections:
 
-   * **bookings**: stores booking-related records created or retrieved by the app.
-   * **event**: stores event-related records used by the app.
-   * **users**: stores user-related records referenced by the app.
+   * **bookings**: stores records related to sports hall bookings.
+   * **event**: stores event-related information used by the application.
+   * **users**: stores user account information for authentication and authorization.
 
 ## **2. Flutter Project Setup**
 
-1. Download and extract the `utmsport.zip` file from the provided link:
+1. Download and extract the file `utmsport.zip` from the following link:
    [https://liveutm-my.sharepoint.com/:u:/g/personal/shahizan_live_utm_my/IQDndLdM3cTJQIWaf7HsW8p3AcDFtqr7UduSmN0fSZjMNmg?e=jjFxr9](https://liveutm-my.sharepoint.com/:u:/g/personal/shahizan_live_utm_my/IQDndLdM3cTJQIWaf7HsW8p3AcDFtqr7UduSmN0fSZjMNmg?e=jjFxr9)
-   This step creates the UTMSport project folder containing all Flutter source files required to run the app.
+   This step prepares the Flutter project files required to run the application.
 
-2. Open the extracted UTMSport project folder using **VS Code**.
-   This step allows you to view, edit, and run the Flutter application from the correct working directory.
+2. Open the extracted project folder using **VS Code**.
+   This ensures the project is loaded correctly for development and execution.
 
 ## **3. Emulator Setup in VS Code**
 
 1. In VS Code, activate the Android emulator.
-   This step provides a virtual Android device environment for testing and running the mobile application.
+   The emulator provides a virtual Android device for testing and running the application.
 
 2. Select the emulator named **Medium Phone API 36.1**.
-   This ensures the application runs on the required emulator profile and Android API configuration specified for the exercise.
+   This ensures the application runs using the specified device profile and Android API level.
 
 ## **4. Running the Application**
 
-1. In VS Code, open the main entry file:
+1. In VS Code, open the main application entry file:
 
    ```
    lib/main.dart
    ```
 
-   This file is the application entry point and is used when launching the Flutter app.
+   This file serves as the starting point of the Flutter application.
 
-2. Run the application using the command:
+2. Run the application using the following command:
 
    ```
    flutter run lib/main.dart
    ```
+
+   This command builds the application and deploys it to the active emulator.
+
+## **5. Login Credentials for Testing**
+
+Use the following credentials to access the application during testing:
+
+* **Academic User**
+
+  * Username: `acad@gmail.com`
+  * Password: `acad123`
+
+* **Administrator**
+
+  * Username: `admin@utm.my`
+  * Password: `admin123`
+
+These credentials allow you to log in and test different user roles within the UTM Mobile Sports Hall Booking App.
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/mobile_apps/issues) for any improvements, suggestions or errors in the content.
