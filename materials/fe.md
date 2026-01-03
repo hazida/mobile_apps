@@ -8,6 +8,62 @@
 
 
 
+# **Makluman Ringkas Peperiksaan Akhir**
+
+Peperiksaan Akhir bagi kursus **SECJ3623 – Mobile Application Programming** akan dijalankan sebagai sebahagian daripada penilaian akhir bagi Semester 1, Sesi 2025/2026.
+
+* **Jenis peperiksaan**: *Closed-book examination*
+* **Jumlah markah**: 100 markah
+
+
+### **Struktur Peperiksaan**
+
+* **Section A: Multiple Choice Questions (MCQ)**
+
+  * 25 soalan
+  * 25 markah
+
+* **Section B: Structured Questions**
+
+  * 5 soalan
+  * 75 markah
+
+
+## **Skop Penilaian Peperiksaan Akhir**
+
+Peperiksaan Akhir ini bertujuan untuk menilai tahap kefahaman, kebolehan aplikasi, dan keupayaan analisis pelajar terhadap konsep dan amalan utama dalam pembangunan aplikasi mudah alih menggunakan **Flutter**.
+
+Skop penilaian merangkumi perkara-perkara berikut:
+
+### **1. Asas Dart dan Pembangunan Aplikasi Flutter**
+
+Penilaian melibatkan kefahaman pelajar terhadap struktur asas aplikasi Flutter dan penggunaan bahasa Dart, termasuk definisi kelas, konstruktor, pengurusan objek, serta pengendalian data berstruktur seperti JSON. Pelajar juga perlu memahami bagaimana data diterima daripada sumber luaran dan diproses dalam aplikasi.
+
+### **2. Navigasi dan Aliran Aplikasi**
+
+Pelajar diuji terhadap pemahaman konsep navigasi dalam Flutter, termasuk pengurusan skrin menggunakan Navigator, prinsip stack (LIFO), serta kawalan aliran aplikasi. Ini merangkumi reka bentuk aliran aplikasi seperti splash screen, pengesahan pengguna (login flow), dan kawalan navigasi untuk memastikan pengalaman pengguna yang lancar.
+
+### **3. Seni Bina Aplikasi dan Amalan Terbaik**
+
+Peperiksaan menilai kefahaman terhadap seni bina aplikasi yang tersusun dan boleh diselenggara. Ini termasuk konsep pemisahan tanggungjawab (separation of concerns), peranan komponen utama seperti Model, View, dan ViewModel, serta bagaimana amalan seni bina yang baik menyokong kebolehskalaan dan kebolehujian aplikasi.
+
+### **4. Dependency Injection (DI)**
+
+Pelajar diuji mengenai konsep Dependency Injection dan kepentingannya dalam pembangunan aplikasi Flutter. Ini merangkumi pendekatan seperti constructor injection, penggunaan inherited widget, dan service locator, termasuk kelebihan serta kekangan setiap pendekatan dalam konteks aplikasi sebenar.
+
+### **5. State Management**
+
+Penilaian melibatkan kefahaman terhadap pengurusan state dalam Flutter, termasuk penggunaan ChangeNotifier, Provider, dan Consumer. Pelajar perlu memahami bagaimana perubahan state mempengaruhi UI, peranan `notifyListeners()`, serta cara mengoptimumkan proses rebuild widget.
+
+### **6. Pengurusan Data dan Integrasi Backend**
+
+Peperiksaan menilai kefahaman terhadap interaksi aplikasi dengan sumber data dan backend, termasuk penggunaan API dan perkhidmatan seperti Firebase. Ini termasuk perbezaan pengurusan data antara persekitaran pembangunan, pengujian, dan deployment, serta implikasi terhadap prestasi aplikasi.
+
+### **7. Reka Bentuk Sistem dan Pelaporan**
+
+Pelajar diuji dari segi kefahaman terhadap reka bentuk sistem aplikasi yang menyediakan ciri pelaporan untuk menyokong pembuatan keputusan. Ini termasuk pemahaman seni bina klien–pelayan, pembahagian pemprosesan antara klien dan pelayan, serta kesan terhadap prestasi dan kebolehgunaan aplikasi.
+
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/mobile_apps/issues) for any improvements, suggestions or errors in the content.
