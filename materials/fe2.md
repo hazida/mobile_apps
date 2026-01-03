@@ -6,11 +6,7 @@
 <a href="https://github.com/drshahizan/mobile_apps/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/mobile_apps?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fmobile_apps&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Berikut ialah **Checklist Ulangkaji Pelajar** yang **ringkas, jelas, dan berfokus**, sesuai digunakan sebagai **senarai semak peribadi**, **dimuat naik ke e-Learning**, atau **dikongsi dalam WhatsApp kelas** untuk kursus **SECJ3623 – Mobile Application Programming**.
-
----
-
-## ✅ Checklist Ulangkaji Pelajar
+# ✅ Checklist Ulangkaji Pelajar
 
 *(Tandakan ✓ apabila sudah dikuasai)*
 
