@@ -63,7 +63,10 @@ Peperiksaan menilai kefahaman terhadap interaksi aplikasi dengan sumber data dan
 
 Pelajar diuji dari segi kefahaman terhadap reka bentuk sistem aplikasi yang menyediakan ciri pelaporan untuk menyokong pembuatan keputusan. Ini termasuk pemahaman seni bina klien–pelayan, pembahagian pemprosesan antara klien dan pelayan, serta kesan terhadap prestasi dan kebolehgunaan aplikasi.
 
+## Info tambahan
+Secara keseluruhannya, fail **MAP Test Study Notes** mencukupi untuk menjawab soalan peperiksaan, terutamanya bagi topik Dart, Layout, Navigation, Dependency Injection, MVVM, State Management, JSON, dan HTTP.
 
+Walau bagaimanapun, bagi topik Firebase (write/query data dan plugin), pelajar dinasihatkan untuk merujuk semula kod yang digunakan di dalam menyiapkan projek.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/mobile_apps/issues) for any improvements, suggestions or errors in the content.
