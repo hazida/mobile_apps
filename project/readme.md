@@ -17,7 +17,7 @@
 |----:|------------------------|------------------------|------------------------|--------------------------------|----------------------|----------------------------|------------------------|
 | 1   | Scrumshank Redemption |                        |                        |                                |                      |                            |                        |
 | 2   | MemeMaker             |                        |                        |                                |                      |                            |                        |
-| 3   | AsalBoleh             |                        |                        |                                |                      |                            |                        |
+| 3   | AsalBoleh             | [proposal](https://github.com/drshahizan/mobile_apps/blob/main/project/group/AsalBoleh/5M%20Technology%20and%20China's%20Universities%20.pdf)                        |                        |                                |                      |                            |                        |
 | 4   | DevX                  |                        |                        |                                |                      |                            |                        |
 | 5   | AI_phone              |                        |                        |                                |                      |                            |                        |
 | 6   | CodeClash             |                        |                        |                                |                      |                            |                        |
