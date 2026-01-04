@@ -26,6 +26,8 @@ Before attending the first lecture, make sure you've completed all the essential
 
 - ❓ **[Quiz]()**: Test your knowledge and track your progress through quizzes.
 
+- 🚀 **[Project Submission](): Submit all group project deliverables in the designated submission table.
+
 ## Flutter
 1. [Software Required for Building Mobile Apps with Flutter](https://github.com/drshahizan/mobile_apps/blob/main/materials/install.md)
 2. [Tools for Creating UI/UX Mockups for Mobile Apps](https://github.com/drshahizan/mobile_apps/blob/main/materials/design%20uiux.md)
