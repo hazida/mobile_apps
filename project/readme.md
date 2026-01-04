@@ -13,7 +13,7 @@
 > Ensure all links are accessible (view permission enabled).
 
 
-| No. | Group Name            | Project Proposal (PDF) | Logbook (GitHub Repo) | 60-sec Product Video  | Product Poster (PDF) | Final Project Report (PDF) | Technical Report (PDF) |
+| No. | Group Name            | Project Proposal (PDF) | Logbook (GitHub Repo) | Product Video  | Product Poster (PDF) | Final Project Report (PDF) | Technical Report (PDF) |
 |----:|------------------------|------------------------|------------------------|:--------------------------------:|----------------------|----------------------------|------------------------|
 | 1   | Scrumshank Redemption |                        | [Logbook](https://github.com/users/drshahizan/projects/45)                       |<a href=""><img src="../images/youtube.png" width="30px" height="30px"></a>|                      |                            |                        |
 | 2   | MemeMaker             |                        | [logbook](https://github.com/users/drshahizan/projects/42/views/1)                       |                                |                      |                            |                        |
