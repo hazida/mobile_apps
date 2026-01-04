@@ -13,8 +13,8 @@
 > Ensure all links are accessible (view permission enabled).
 
 
-| No. | Group Name            | Project Proposal (PDF) | Logbook (GitHub Repo) | 60-sec Product Video (YouTube) | Product Poster (PDF) | Final Project Report (PDF) | Technical Report (PDF) |
-|----:|------------------------|------------------------|------------------------|--------------------------------|----------------------|----------------------------|------------------------|
+| No. | Group Name            | Project Proposal (PDF) | Logbook (GitHub Repo) | 60-sec Product Video  | Product Poster (PDF) | Final Project Report (PDF) | Technical Report (PDF) |
+|----:|------------------------|------------------------|------------------------|:--------------------------------:|----------------------|----------------------------|------------------------|
 | 1   | Scrumshank Redemption |                        | [Logbook](https://github.com/users/drshahizan/projects/45)                       |<a href=""><img src="../images/youtube.png" width="30px" height="30px"></a>|                      |                            |                        |
 | 2   | MemeMaker             |                        | [logbook](https://github.com/users/drshahizan/projects/42/views/1)                       |                                |                      |                            |                        |
 | 3   | AsalBoleh             | [proposal](https://github.com/drshahizan/mobile_apps/blob/main/project/group/AsalBoleh/5M%20Technology%20and%20China's%20Universities%20.pdf)                        | [logbook](https://github.com/users/drshahizan/projects/38)                       |[video](https://youtu.be/Giuo1aicQ04?si=asO5bTp3fG9RZWON)                               |                      |                            |                        |
