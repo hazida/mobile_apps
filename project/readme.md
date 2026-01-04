@@ -25,7 +25,6 @@
 | 8   | NULL                  |                        |                        |                                |                      |                            |                        |
 | 9   | BusyBody              |                        |                        |                                |                      |                            |                        |
 | 10  | linerzGempak          |                        |                        |                                |                      |                            |                        |
-| 11  | MobileX               |                        |                        |                                |                      |                            |                        |
 
 
 
