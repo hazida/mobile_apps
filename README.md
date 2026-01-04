@@ -24,9 +24,7 @@ Before attending the first lecture, make sure you've completed all the essential
   
 - 💡 **[Lab Exercise]()**: Engage with exercises designed to complement your coursework and enhance learning.
 
-- ❓ **[Quiz]()**: Test your knowledge and track your progress through quizzes.
-
-- 🚀 **[Project Submission](): Submit all group project deliverables in the designated submission table.
+- 🚀 **[Project Submission](https://github.com/drshahizan/mobile_apps/blob/main/project/readme.md)**: Submit all group project deliverables in the designated submission table.
 
 ## Flutter
 1. [Software Required for Building Mobile Apps with Flutter](https://github.com/drshahizan/mobile_apps/blob/main/materials/install.md)
