@@ -12,7 +12,7 @@
 > Paste the **submission link** (Google Drive / GitHub / YouTube / PDF link) in the corresponding column.
 > Ensure all links are accessible (view permission enabled).
 
-| No. | Group Name            | Proposal | Logbook | Product Video | Product Poster | Final Project Report | Technical Report |
+| No. | Group Name            | Proposal | Logbook | Video | Poster | Final Project Report | Technical Report |
 |----:|------------------------|:--------:|:-------:|:-------------:|:--------------:|:--------------------:|:----------------:|
 | 1   | Scrumshank Redemption | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> | [:octocat:](https://github.com/users/drshahizan/projects/45) | <a href=""><img src="../images/youtube.png" width="30px" height="30px"></a> | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> |
 | 2   | MemeMaker             | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> | [:octocat:](https://github.com/users/drshahizan/projects/42/views/1) | <a href=""><img src="../images/youtube.png" width="30px" height="30px"></a> | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> |
