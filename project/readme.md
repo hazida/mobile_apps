@@ -13,19 +13,18 @@
 > Ensure all links are accessible (view permission enabled).
 
 
-| No. | Group Name            | Project Proposal (PDF) | Logbook (GitHub Repo) | Product Video  | Product Poster (PDF) | Final Project Report (PDF) | Technical Report (PDF) |
-|----:|------------------------|------------------------|------------------------|:--------------------------------:|----------------------|----------------------------|------------------------|
-| 1   | Scrumshank Redemption |                        | [Logbook](https://github.com/users/drshahizan/projects/45)                       |<a href=""><img src="../images/youtube.png" width="30px" height="30px"></a>|                      |                            |                        |
-| 2   | MemeMaker             |                        | [logbook](https://github.com/users/drshahizan/projects/42/views/1)                       |                                |                      |                            |                        |
-| 3   | AsalBoleh             | [proposal](https://github.com/drshahizan/mobile_apps/blob/main/project/group/AsalBoleh/5M%20Technology%20and%20China's%20Universities%20.pdf)                        | [logbook](https://github.com/users/drshahizan/projects/38)                       |[video](https://youtu.be/Giuo1aicQ04?si=asO5bTp3fG9RZWON)                               |                      |                            |                        |
-| 4   | DevX                  |                        |                        |                                |                      |                            |                        |
-| 5   | AI_phone              |                        |                        |                                |                      |                            |                        |
-| 6   | CodeClash             |                        | [logbook](https://github.com/users/drshahizan/projects/47)                      |                                |                      |                            |                        |
-| 7   | ASHA                  |                        | [logbook](https://github.com/users/drshahizan/projects/39)                  |                                |                      |                            |                        |
-| 8   | NULL                  |                        | [logbook](https://github.com/users/drshahizan/projects/44)                       |                                |                      |                            |                        |
-| 9   | BusyBody              |                        |  [logbook](https://github.com/users/drshahizan/projects/46)                      |                                |                      |                            |                        |
-| 10  | linerzGempak          |                        |  [logbook](https://github.com/users/drshahizan/projects/41)                     |                                |                      |                            |                        |
-
+| No. | Group Name            | Project Proposal (PDF) | Logbook (GitHub Repo) | Product Video | Product Poster (PDF) | Final Project Report (PDF) | Technical Report (PDF) |
+|----:|------------------------|------------------------|------------------------|:-------------:|----------------------|----------------------------|------------------------|
+| 1   | Scrumshank Redemption |                        | [Logbook](https://github.com/users/drshahizan/projects/45) | <a href=""><img src="../images/youtube.png" width="30px" height="30px"></a> |                      |                            |                        |
+| 2   | MemeMaker             |                        | [Logbook](https://github.com/users/drshahizan/projects/42/views/1) | <a href=""><img src="../images/youtube.png" width="30px" height="30px"></a> |                      |                            |                        |
+| 3   | AsalBoleh             | [Proposal](https://github.com/drshahizan/mobile_apps/blob/main/project/group/AsalBoleh/5M%20Technology%20and%20China's%20Universities%20.pdf) | [Logbook](https://github.com/users/drshahizan/projects/38) | <a href="https://youtu.be/Giuo1aicQ04?si=asO5bTp3fG9RZWON"><img src="../images/youtube.png" width="30px" height="30px"></a> |                      |                            |                        |
+| 4   | DevX                  |                        |                        | <a href=""><img src="../images/youtube.png" width="30px" height="30px"></a> |                      |                            |                        |
+| 5   | AI_phone              |                        |                        | <a href=""><img src="../images/youtube.png" width="30px" height="30px"></a> |                      |                            |                        |
+| 6   | CodeClash             |                        | [Logbook](https://github.com/users/drshahizan/projects/47) | <a href=""><img src="../images/youtube.png" width="30px" height="30px"></a> |                      |                            |                        |
+| 7   | ASHA                  |                        | [Logbook](https://github.com/users/drshahizan/projects/39) | <a href=""><img src="../images/youtube.png" width="30px" height="30px"></a> |                      |                            |                        |
+| 8   | NULL                  |                        | [Logbook](https://github.com/users/drshahizan/projects/44) | <a href=""><img src="../images/youtube.png" width="30px" height="30px"></a> |                      |                            |                        |
+| 9   | BusyBody              |                        | [Logbook](https://github.com/users/drshahizan/projects/46) | <a href=""><img src="../images/youtube.png" width="30px" height="30px"></a> |                      |                            |                        |
+| 10  | linerzGempak          |                        | [Logbook](https://github.com/users/drshahizan/projects/41) | <a href=""><img src="../images/youtube.png" width="30px" height="30px"></a> |                      |                            |                        |
 
 
 
