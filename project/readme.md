@@ -9,7 +9,7 @@
 ## 📌 Group Project Submission Table
 
 > **Instruction to Students:**
-> Paste the **submission link** (Google Drive / GitHub / YouTube / PDF link) in the corresponding column.
+> Paste the **submission link** in the corresponding column.
 > Ensure all links are accessible (view permission enabled).
 
 | No. | Group Name            | Proposal | Logbook | Video | Poster | Final Project Report | Technical Report |
