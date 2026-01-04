@@ -12,7 +12,7 @@
 > Paste the **submission link** (Google Drive / GitHub / YouTube / PDF link) in the corresponding column.
 > Ensure all links are accessible (view permission enabled).
 
-```markdown
+
 | No. | Group Name            | Project Proposal (PDF) | Logbook (GitHub Repo) | 60-sec Product Video (YouTube) | Product Poster (PDF) | Final Project Report (PDF) | Technical Report (PDF) |
 |----:|------------------------|------------------------|------------------------|--------------------------------|----------------------|----------------------------|------------------------|
 | 1   | Scrumshank Redemption |                        |                        |                                |                      |                            |                        |
@@ -26,7 +26,7 @@
 | 9   | BusyBody              |                        |                        |                                |                      |                            |                        |
 | 10  | linerzGempak          |                        |                        |                                |                      |                            |                        |
 | 11  | MobileX               |                        |                        |                                |                      |                            |                        |
-```
+
 
 
 
