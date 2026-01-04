@@ -125,7 +125,7 @@ c. Given a JSON response from an API, explain the purpose of `fromJson()` and `t
 
 
 
-### **Question 8: Firebase Integration (Topik Tambahan) (20 marks)**
+### **Question 8: Firebase Integration (20 marks)**
 
 a. Explain the role of **Firebase** as a backend service in mobile application development.
 (5 marks)
