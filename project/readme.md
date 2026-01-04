@@ -12,8 +12,8 @@
 > Paste the **submission link** (Google Drive / GitHub / YouTube / PDF link) in the corresponding column.
 > Ensure all links are accessible (view permission enabled).
 
-| No. | Group Name            | Project Proposal (PDF) | Logbook (GitHub Repo) | Product Video | Product Poster (PDF) | Final Project Report (PDF) | Technical Report (PDF) |
-|----:|------------------------|------------------------|------------------------|:-------------:|----------------------|----------------------------|------------------------|
+| No. | Group Name            | Project Proposal (PDF) | Logbook | Product Video | Product Poster (PDF) | Final Project Report (PDF) | Technical Report (PDF) |
+|----:|------------------------|------------------------|:------------------------:|:-------------:|----------------------|----------------------------|------------------------|
 | 1   | Scrumshank Redemption |                        | [:octocat:](https://github.com/users/drshahizan/projects/45) | <a href=""><img src="../images/youtube.png" width="30px" height="30px"></a> |                      |                            |                        |
 | 2   | MemeMaker             |                        | [:octocat:](https://github.com/users/drshahizan/projects/42/views/1) | <a href=""><img src="../images/youtube.png" width="30px" height="30px"></a> |                      |                            |                        |
 | 3   | AsalBoleh             | [Proposal](https://github.com/drshahizan/mobile_apps/blob/main/project/group/AsalBoleh/5M%20Technology%20and%20China's%20Universities%20.pdf) | [:octocat:](https://github.com/users/drshahizan/projects/38) | <a href="https://youtu.be/Giuo1aicQ04?si=asO5bTp3fG9RZWON"><img src="../images/youtube.png" width="30px" height="30px"></a> |                      |                            |                        |
