@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "646068365342",
+    "project_id": "yattskitchen-7c195",
+    "storage_bucket": "yattskitchen-7c195.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646068365342:android:8c3b49bbac4657c793660f",
+        "android_client_info": {
+          "package_name": "com.example.yattskitchen_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxBnHjrGXWiBE3K3H29XmpSnimBs2Kvpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
