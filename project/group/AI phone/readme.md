@@ -1,2 +1,2 @@
 # yattskitchen_project
-Mobile Programming Project 
+SE Lab Project
